@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "tionna",
+    "password": null,
+    "database": "wanderly-two",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "tionna",
+    "password": null,
+    "database": "wanderly-two",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "tionna",
+    "password": null,
+    "database": "wanderly-two",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
